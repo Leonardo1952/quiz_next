@@ -1,4 +1,4 @@
-import styles from '../styles/Questionario.module.css'
+import styles from '../styles/questionario.module.css'
 import Questao from './Questao'
 import Botao from './Botao'
 import QuestaoModel from "../model/questao"

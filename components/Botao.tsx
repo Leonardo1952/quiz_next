@@ -1,4 +1,4 @@
-import styles from '../styles/Botao.module.css'
+import styles from '../styles/botao.module.css'
 import Link from 'next/link'
 
 interface BotaoProps {
